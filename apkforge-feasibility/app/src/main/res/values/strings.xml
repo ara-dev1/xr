@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APKFORGE Feasibility</string>
+    <string name="title_text">APKFORGE Feasibility App</string>
+    <string name="counter_format">Button clicks: %1$d</string>
+    <string name="btn_increment">Click Me</string>
+</resources>
